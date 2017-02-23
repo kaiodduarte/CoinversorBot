@@ -10,7 +10,7 @@ O bot funciona apenas em modo inline, em qualquer conversa basta digitar:
 ```
 Selecione uma moeda e aguarde as respostas.
 
-![CoinversorBot](http://i.imgur.com/TYPlnYV.png)
+![CoinversorBot](http://i.imgur.com/9QfBISq.png)
 
 ## Configuração
 
