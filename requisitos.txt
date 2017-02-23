@@ -1,0 +1,3 @@
+configparser==3.5.0
+telebot==0.0.3
+pyTelegramBotAPI==2.3.0
