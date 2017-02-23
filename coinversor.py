@@ -65,7 +65,7 @@ def get_options(results, amount):
             )
 
         option = types.InlineQueryResultArticle(str(index), title+title_,
-                                       types.InputTextMessageContent(msg_bot))
+                                       types.InputTextMessageContent(msg_bot), description = str(rate))
         options.append(option)
 
     return options
